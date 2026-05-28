@@ -1,5 +1,14 @@
 # Extraction-and-EDA---Group-Project
 
+## Roles and Work Done
+
+Anna : Create group repository, Extract API Data, Create data cleaning module, and personal EDA.
+Cherry
+Jessica
+Luis
+Palo
+Victor
+
 **##1 What does your dataset explore?**
 
 This dataset explores cats listed in the RescueGroups.org system. It includes cats currently available for adoption as well as cats with past adoption-related records. The dataset helps us examine how different cat charateristics may relate to adoption outcomes and time in the system.
