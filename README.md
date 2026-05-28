@@ -6,7 +6,7 @@ Anna : Create group repository, Extract API Data, Create data cleaning module, a
 Cherry
 Jessica
 Luis
-Palo
+Palo : Created new repo files and modified current repo files, wrote and submitted phase 1 READ.ME answers, created color cleaning module, and created personal EDA.
 Victor
 
 **##1 What does your dataset explore?**
