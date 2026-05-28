@@ -63,3 +63,5 @@ The extracted dataset contains approximately 61,433 animal records.
 ## Notes
 
 The raw API data may contain missing values, HTML encoding, and long text descriptions. These will be handled during the cleaning phase.
+
+Data was collecteed from the Rescuegroups.org cats endpoint and exported to: data/raw/rescue_groups_cats.csv

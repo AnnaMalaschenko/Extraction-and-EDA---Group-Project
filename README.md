@@ -2,7 +2,7 @@
 
 **##1 What does your dataset explore?**
 
-Animals currently in the system for adoption with RescueGroups.org. This includes rescued animals as well as previously adopted animals that were returned. (Will most likely focus on cats and dogs, but this is subject to change.)
+This dataset explores cats listed in the RescueGroups.org system. It includes cats currently available for adoption as well as cats with past adoption-related records. The dataset helps us examine how different cat charateristics may relate to adoption outcomes and time in the system.
 
 **##2 What is your dependent variable in the data you are pulling from?**
 
