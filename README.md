@@ -2,20 +2,27 @@
 
 ## Roles and Work Done
 
+-----------------------------------------------------------------------------------------------------
 Anna : Create group repository, Extract API Data, Create data cleaning module, and personal EDA.
+--------------------------------------------------------------------------
 Cherry
+------------------------------------------------------------------------------------------------------
 Jessica
+--------------------------------------------------------------------------
 Luis
+------------------------------------------------------------------------------------------------------
 Palo : Created new repo files and modified current repo files, wrote and submitted phase 1 READ.ME answers, created color cleaning module, and created personal EDA.
+------------------------------------------------------------------------------
 Victor
+-----------------------------------------------------------------------------------------------------
 
 **##1 What does your dataset explore?**
 
-This dataset explores cats listed in the RescueGroups.org system. It includes cats currently available for adoption as well as cats with past adoption-related records. The dataset helps us examine how different cat charateristics may relate to adoption outcomes and time in the system.
+This dataset explores cats listed for adoption in the RescueGroups.org system. It includes cats currently available for adoption as well as cats with past adoption-related records. The dataset helps us examine how different cat charateristics may relate to adoption outcomes and time in the system. Perhaps our analysis can lead to helping provide adoption shelters with new information that reduces how long animals are waiting to be adopted, or insight on how to better maintain records for further and more accurate data analysis. 
 
 **##2 What is your dependent variable in the data you are pulling from?**
 
-Currently looking at the 'Length of Stay'. This will be calculated by the days an animal was in the system, by looking at the differences between these values: availableDate and adoptedDate. 
+Currently looking at the 'Length of Stay'. This will be calculated using the days an animal was in the system, by looking at the differences between these values: availableDate and adoptedDate. 
 
 **##3 Is this variable categorical or quantitative?** 
 
@@ -44,4 +51,6 @@ Qualitative, Quantitative, Categorial and Boolean.
 
 **##7 How large is your dataset? (it should be larger than 1000 rows, but the more the better the powerLinks to an external site.)**
 
-Over 1000. Full number is Unknown until RG_API_KEY is available.
+~~ Over 1000. Full number is Unknown until RG_API_KEY is available. ~~ 
+
+Update: We pulled a dataset of 50,000 rows. For our current level of exploration, we cleaned and sorted it down to 4,528. 
